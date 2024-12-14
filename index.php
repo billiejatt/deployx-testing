@@ -4,7 +4,7 @@
  * SEO X
  *
  * @package           SEOX
- * @author            Billie Jutt
+ * @author            Billie Jutt 2
  * @link              http://www.fectodigital.com//
  *
  * @wordpress-plugin
