@@ -3,7 +3,7 @@
 /**
  * SEO X
  *
- * @package           SEOX
+ * @package           SEOX 2
  * @author            Billie Jutt 2
  * @link              http://www.fectodigital.com//
  *
