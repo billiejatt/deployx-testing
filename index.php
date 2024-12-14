@@ -3,12 +3,12 @@
 /**
  * SEO X
  *
- * @package           SEOX 2
- * @author            Billie Jutt 2
- * @link              http://www.fectodigital.com//
+ * @package           SEOX
+ * @author            Billie Jutt
+ * @link              http://www.fectodigital.com/
  *
  * @wordpress-plugin
- * Plugin Name:       SEO X - AIOS Checker 123
+ * Plugin Name:       SEO X - AIOS Checker
  * Plugin URI:        https://fectodigital.com
  * Description:       This plugin will link your WordPress application with all the performance of SEO Ponts provided by Fecto Digital
  * Version:           1.0.1
