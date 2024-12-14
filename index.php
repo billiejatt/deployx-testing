@@ -5,7 +5,7 @@
  *
  * @package           SEOX
  * @author            Billie Jutt
- * @link              http://www.fectodigital.com/
+ * @link              http://www.fectodigital.com
  *
  * @wordpress-plugin
  * Plugin Name:       SEO X - AIOS Checker
