@@ -1,0 +1,8 @@
+{
+    "name": "billiejatt/deployx-testing",
+    "type": "wordpress-plugin",
+    "description": "Your plugin description",
+    "require": {
+        "php": ">=7.2"
+    }
+}
